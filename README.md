@@ -1,5 +1,11 @@
 # Assassin's Creed — Native Android Port (Sony Ericsson X1i WVGA Edition)
 
+[![Download APK](https://img.shields.io/badge/Download-AssassinsCreed.apk-brightgreen?style=for-the-badge&logo=android)](https://github.com/GUPRON98/AssassinsCreed-Android/releases/download/v1.0.0/AssassinsCreed.apk)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/GUPRON98/AssassinsCreed-Android/releases/tag/v1.0.0)
+
+> ### 📥 **DOWNLOAD APK SIAP MAIN:**
+> 👉 [**KLIK DI SINI UNTUK DOWNLOAD AssassinsCreed.apk (Direct Download)**](https://github.com/GUPRON98/AssassinsCreed-Android/releases/download/v1.0.0/AssassinsCreed.apk)
+
 Port native Android berkualitas tinggi untuk game legendaris **Assassin's Creed (Gameloft / Ubisoft)** versi Sony Ericsson Xperia X1i WVGA (480x800). Dibangun menggunakan custom J2ME runtime engine modern yang mendukung layar sentuh, local save RMS, mode fullscreen adaptif, kontroler virtual di bawah layar, Animus Cheat Engine, dan pengunci framerate dinamis.
 
 ---
@@ -36,12 +42,15 @@ Port native Android berkualitas tinggi untuk game legendaris **Assassin's Creed 
 
 ---
 
-## 📦 Lokasi Instalasi & Build
+## 📦 Download APK Siap Main
 
-File APK siap pakai tersimpan di:
+Anda dapat mengunduh file APK langsung melalui link berikut:
+- 🚀 **[Download AssassinsCreed.apk (GitHub Release)](https://github.com/GUPRON98/AssassinsCreed-Android/releases/download/v1.0.0/AssassinsCreed.apk)**
+- 📁 **[Download AssassinsCreed.apk (Raw Repository)](https://github.com/GUPRON98/AssassinsCreed-Android/raw/main/AssassinsCreed.apk)**
+
+Di perangkat lokal tersimpan di:
 - `/sdcard/ai/AssassinsCreed.apk`
 - `/sdcard/Download/AssassinsCreed.apk`
-- `AssassinsCreed.apk` (Root repositori)
 
 ---
 
