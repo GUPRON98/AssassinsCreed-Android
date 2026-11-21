@@ -1,0 +1,8 @@
+build/
+build_tmp/
+*.log
+classes.dex
+dummy.apk
+game_raw.jar
+extracted_jar/
+*.idsig
